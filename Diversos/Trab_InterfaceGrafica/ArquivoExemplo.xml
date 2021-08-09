@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--Criando Cliente-->
+<Clientes>
+  <Cliente>
+    <Nome>Julio C</Nome>
+    <Email>email@email</Email>
+  </Cliente>
+  <Cliente>
+    <Nome>Pedro Ivo</Nome>
+    <Email>email@email</Email>
+  </Cliente>
+  <Cliente>
+    <Nome>Maria</Nome>
+    <Email>email@email</Email>
+  </Cliente>
+  <Cliente>
+    <Nome>Joao</Nome>
+    <Email>joao@email</Email>
+  </Cliente>
+</Clientes>

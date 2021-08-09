@@ -1,0 +1,6 @@
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Questao_2_3\Questao_2_3\bin\Debug\Questao_2_3.exe.config
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Questao_2_3\Questao_2_3\bin\Debug\Questao_2_3.exe
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Questao_2_3\Questao_2_3\bin\Debug\Questao_2_3.pdb
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Questao_2_3\Questao_2_3\obj\Debug\Questao_2_3.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Questao_2_3\Questao_2_3\obj\Debug\Questao_2_3.exe
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Questao_2_3\Questao_2_3\obj\Debug\Questao_2_3.pdb

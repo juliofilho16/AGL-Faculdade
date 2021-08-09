@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<Candidatos>
+  <Candidato Id="1" TipoCandidato_Id="1">
+    <Nome>Bolsonáro</Nome>
+    <NumLegenda>17</NumLegenda>
+    <CPF>1</CPF>
+    <Partido>
+      <Nome>Partido Social Liberal</Nome>
+      <NumLegenda>17</NumLegenda>
+      <Sigla>PSL</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>1</Id>
+      <Descricao>Presidente</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="2" TipoCandidato_Id="1">
+    <Nome>Lulinha</Nome>
+    <NumLegenda>13</NumLegenda>
+    <CPF>2</CPF>
+    <Partido>
+      <Nome>Partido Trabalhadores</Nome>
+      <NumLegenda>13</NumLegenda>
+      <Sigla>PT</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>1</Id>
+      <Descricao>Presidente</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="3" TipoCandidato_Id="1">
+    <Nome>Geraldo Alckmin</Nome>
+    <NumLegenda>45</NumLegenda>
+    <CPF>3</CPF>
+    <Partido>
+      <Nome>Partido Social Democracia da Brasileira</Nome>
+      <NumLegenda>45</NumLegenda>
+      <Sigla>PSDB</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>1</Id>
+      <Descricao>Presidente</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="4" TipoCandidato_Id="1">
+    <Nome>Boulos</Nome>
+    <NumLegenda>50</NumLegenda>
+    <CPF>4</CPF>
+    <Partido>
+      <Nome>Partido Socialismo e Liberdade</Nome>
+      <NumLegenda>50</NumLegenda>
+      <Sigla>PSOL</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>1</Id>
+      <Descricao>Presidente</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="5" TipoCandidato_Id="2">
+    <Nome>Pedro Ivo</Nome>
+    <NumLegenda>13</NumLegenda>
+    <CPF>5</CPF>
+    <Partido>
+      <Nome>Partido Trabalhadores</Nome>
+      <NumLegenda>13</NumLegenda>
+      <Sigla>PT</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>2</Id>
+      <Descricao>Prefeito</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="6" TipoCandidato_Id="2">
+    <Nome>Palhares</Nome>
+    <NumLegenda>17</NumLegenda>
+    <CPF>6</CPF>
+    <Partido>
+      <Nome>Partido Social Liberal</Nome>
+      <NumLegenda>17</NumLegenda>
+      <Sigla>PSL</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>2</Id>
+      <Descricao>Prefeito</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="7" TipoCandidato_Id="2">
+    <Nome>Rodrigo</Nome>
+    <NumLegenda>45</NumLegenda>
+    <CPF>7</CPF>
+    <Partido>
+      <Nome>Partido Social Democracia da Brasileira</Nome>
+      <NumLegenda>45</NumLegenda>
+      <Sigla>PSDB</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>2</Id>
+      <Descricao>Prefeito</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="8" TipoCandidato_Id="3">
+    <Nome>Vereador 1 </Nome>
+    <NumLegenda>13</NumLegenda>
+    <CPF>8</CPF>
+    <Partido>
+      <Nome>Partido Trabalhadores</Nome>
+      <NumLegenda>13</NumLegenda>
+      <Sigla>PT</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>3</Id>
+      <Descricao>Vereador</Descricao>
+    </TipoCandidato>
+  </Candidato>
+  <Candidato Id="9" TipoCandidato_Id="3">
+    <Nome>Vereador 2</Nome>
+    <NumLegenda>17</NumLegenda>
+    <CPF>9</CPF>
+    <Partido>
+      <Nome>Partido Social Liberal</Nome>
+      <NumLegenda>17</NumLegenda>
+      <Sigla>PSL</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>3</Id>
+      <Descricao>Vereador</Descricao>
+    </TipoCandidato>
+  </Candidato>
+   <Candidato Id="10" TipoCandidato_Id="3">
+    <Nome>Vereador 3</Nome>
+    <NumLegenda>50</NumLegenda>
+    <CPF>10</CPF>
+    <Partido>
+      <Nome>Partido Socialismo e Liberdade</Nome>
+      <NumLegenda>50</NumLegenda>
+      <Sigla>PSOL</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>3</Id>
+      <Descricao>Vereador</Descricao>
+    </TipoCandidato>
+  </Candidato>
+    <Candidato Id="11" TipoCandidato_Id="3">
+    <Nome>Vereador 4</Nome>
+    <NumLegenda>45</NumLegenda>
+    <CPF>11</CPF>
+     <Partido>
+      <Nome>Partido Social Democracia da Brasileira</Nome>
+      <NumLegenda>45</NumLegenda>
+      <Sigla>PSDB</Sigla>
+    </Partido>
+    <TipoCandidato>
+      <Id>3</Id>
+      <Descricao>Vereador</Descricao>
+    </TipoCandidato>
+  </Candidato>
+</Candidatos>

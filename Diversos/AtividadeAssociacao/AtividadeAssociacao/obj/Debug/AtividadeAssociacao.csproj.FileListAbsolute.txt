@@ -1,0 +1,7 @@
+c:\users\1175664\source\repos\AtividadeAssociacao\AtividadeAssociacao\bin\Debug\AtividadeAssociacao.exe.config
+c:\users\1175664\source\repos\AtividadeAssociacao\AtividadeAssociacao\bin\Debug\AtividadeAssociacao.exe
+c:\users\1175664\source\repos\AtividadeAssociacao\AtividadeAssociacao\bin\Debug\AtividadeAssociacao.pdb
+c:\users\1175664\source\repos\AtividadeAssociacao\AtividadeAssociacao\obj\Debug\AtividadeAssociacao.csprojAssemblyReference.cache
+c:\users\1175664\source\repos\AtividadeAssociacao\AtividadeAssociacao\obj\Debug\AtividadeAssociacao.csproj.CoreCompileInputs.cache
+c:\users\1175664\source\repos\AtividadeAssociacao\AtividadeAssociacao\obj\Debug\AtividadeAssociacao.exe
+c:\users\1175664\source\repos\AtividadeAssociacao\AtividadeAssociacao\obj\Debug\AtividadeAssociacao.pdb

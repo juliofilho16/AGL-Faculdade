@@ -1,0 +1,6 @@
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Ex_Interface\Ex_Interface\bin\Debug\Ex_Interface.exe.config
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Ex_Interface\Ex_Interface\bin\Debug\Ex_Interface.exe
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Ex_Interface\Ex_Interface\bin\Debug\Ex_Interface.pdb
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Ex_Interface\Ex_Interface\obj\Debug\Ex_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Ex_Interface\Ex_Interface\obj\Debug\Ex_Interface.exe
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Ex_Interface\Ex_Interface\obj\Debug\Ex_Interface.pdb

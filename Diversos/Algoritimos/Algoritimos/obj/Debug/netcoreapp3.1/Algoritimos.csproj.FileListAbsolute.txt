@@ -1,0 +1,13 @@
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\bin\Debug\netcoreapp3.1\Algoritimos.exe
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\bin\Debug\netcoreapp3.1\Algoritimos.deps.json
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\bin\Debug\netcoreapp3.1\Algoritimos.runtimeconfig.json
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\bin\Debug\netcoreapp3.1\Algoritimos.runtimeconfig.dev.json
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\bin\Debug\netcoreapp3.1\Algoritimos.dll
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\bin\Debug\netcoreapp3.1\Algoritimos.pdb
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\obj\Debug\netcoreapp3.1\Algoritimos.csprojAssemblyReference.cache
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\obj\Debug\netcoreapp3.1\Algoritimos.AssemblyInfoInputs.cache
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\obj\Debug\netcoreapp3.1\Algoritimos.AssemblyInfo.cs
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\obj\Debug\netcoreapp3.1\Algoritimos.csproj.CoreCompileInputs.cache
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\obj\Debug\netcoreapp3.1\Algoritimos.dll
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\obj\Debug\netcoreapp3.1\Algoritimos.pdb
+D:\Pessoais\Julio.C\arquivos\Facul\Algoritimos\Semestre 1\Algoritimos\Algoritimos\obj\Debug\netcoreapp3.1\Algoritimos.genruntimeconfig.cache

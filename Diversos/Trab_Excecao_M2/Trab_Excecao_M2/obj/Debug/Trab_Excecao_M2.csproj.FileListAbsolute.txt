@@ -1,0 +1,6 @@
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Trab_Excecao_M2\Trab_Excecao_M2\bin\Debug\Trab_Excecao_M2.exe.config
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Trab_Excecao_M2\Trab_Excecao_M2\bin\Debug\Trab_Excecao_M2.exe
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Trab_Excecao_M2\Trab_Excecao_M2\bin\Debug\Trab_Excecao_M2.pdb
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Trab_Excecao_M2\Trab_Excecao_M2\obj\Debug\Trab_Excecao_M2.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Trab_Excecao_M2\Trab_Excecao_M2\obj\Debug\Trab_Excecao_M2.exe
+C:\Users\Julio Cesar\Documents\Julio.C\arquivos\Facul\2 Periodo\POO Pratica\Projestos&Exercicios\Trab_Excecao_M2\Trab_Excecao_M2\obj\Debug\Trab_Excecao_M2.pdb

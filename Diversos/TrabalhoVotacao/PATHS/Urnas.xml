@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Urnas>
+  <UrnaEletronica Id="190">
+    <Zona>190</Zona>
+    <Secao>123</Secao>
+  </UrnaEletronica>
+  <UrnaEletronica Id="87">
+    <Zona>87</Zona>
+    <Secao>111</Secao>
+  </UrnaEletronica>
+  <UrnaEletronica Id="133">
+    <Zona>133</Zona>
+    <Secao>198</Secao>
+  </UrnaEletronica>
+</Urnas>

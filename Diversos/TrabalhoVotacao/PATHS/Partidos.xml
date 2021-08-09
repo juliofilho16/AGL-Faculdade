@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Partidos>
+  <Partido Id="13">
+    <Nome>Partido Trabalhadores</Nome>
+    <NumLegenda>13</NumLegenda>
+    <Sigla>PT</Sigla>
+  </Partido>
+  <Partido Id="17">
+    <Nome>Partido Social Liberal</Nome>
+    <NumLegenda>17</NumLegenda>
+    <Sigla>PSL</Sigla>
+  </Partido>
+  <Partido Id="45">
+    <Nome>Partido Social Democracia da Brasileira</Nome>
+    <NumLegenda>45</NumLegenda>
+    <Sigla>PSDB</Sigla>
+  </Partido>
+  <Partido Id="50">
+    <Nome>Partido Socialismo e Liberdade</Nome>
+    <NumLegenda>50</NumLegenda>
+    <Sigla>PSOL</Sigla>
+  </Partido>
+</Partidos>

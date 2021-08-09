@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TrabalhoVotacao.Arquivos.PathsToSaveAndRead" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCAAAAIAAAAAAAAABAAAAAAAIAQSAACAQAIA=</HashCode>
+      <FileName>Arquivos\PathsToSaveAndRead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Eleicao.LoginEleitor.LOGIN_ELEITOR" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACABQBAAAACAAAACABAAgAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Eleicao\LoginEleitor\LOGIN_ELEITOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Eleicao.MenuEleitor.MENU_ELEITOR" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAABAACQAABAQEACAYAASAAAAACAhJAAgACQAAAA=</HashCode>
+      <FileName>Eleicao\MenuEleitor\MENU_ELEITOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Eleicao.Resultado.RESULTADO" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAACAAADAAgACAABACAAEABAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Eleicao\Resultado\RESULTADO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Urna.Urna" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAPA/ACQAAiEAAIGAAAACgAAIAAAAEAACCAAy8A8=</HashCode>
+      <FileName>Eleicao\Urna\Urna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.FormsAdiministrador.Candidatos.CANDIDATO_CRUD" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAgIBEAAACAQMACAAABABAAAEAAAIIAASA=</HashCode>
+      <FileName>FormsAdiministrador\Candidatos\CANDIDATO_CRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.FormsAdiministrador.Eleitor.ELEITORCRUD" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEACACAAEACAAAAAhAgAAAAACIAACA=</HashCode>
+      <FileName>FormsAdiministrador\Eleitor\ELEITORCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.FormsAdiministrador.Menu.Menu" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAABACAAAAAAAQCAAAACAAAIIACAAEAAABAIAQA=</HashCode>
+      <FileName>FormsAdiministrador\Menu\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.FormsAdiministrador.Partido.PARTIDO_CRUD" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAACgAABAAAACBAAACEAAAAAAAAAgIAAAgAiA=</HashCode>
+      <FileName>FormsAdiministrador\Partido\PARTIDO_CRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.FormsAdiministrador.Urna.URNACRUD" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAABUAIACAAEACAAAAABAAAAAAgAIAAAA=</HashCode>
+      <FileName>FormsAdiministrador\Urna\URNACRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Candidatos.Candidato">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAABIAAEAAAgAACAAAAAACAAAAACBAEEAAA=</HashCode>
+      <FileName>Models\Candidato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Candidatos.DeputadoEstadual">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DeputadoEstadual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Candidatos.DeputadoFederal">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DeputadoFederal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Eleitor" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAAAAgAAAgIAIBIABCAQAAAAAAAAAAAAFAAEA=</HashCode>
+      <FileName>Models\Eleitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Enums" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="TrabalhoVotacao.Models.Enums.TipoCandidatosEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\Enums.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Partido" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEEAAAgAAAAAAgAACAAAAAAAAEEAAA=</HashCode>
+      <FileName>Models\Partido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.TipoCandidato" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAABAAAEAAAAAMAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\TipoCandidato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.UrnaEletronica" Collapsed="true">
+    <Position X="16" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAABAAAAAQAgAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Models\UrnaEletronica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Votos" Collapsed="true">
+    <Position X="19.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAABAAAAAAAAAAAAACAAAAAgAAABAAAAAAAAABA=</HashCode>
+      <FileName>Models\Votos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Models.Candidatos.Executivo.GovernadorEstado">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\GovernadorEstado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Candidatos.Legislativo.Prefeito">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Prefeito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Candidatos.Legislativo.Vereador">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Vereador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Candidatos.Executivo.Presidente">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Presidente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Services.CandidatosServices" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAABAEAAEAAAAAIAIAA=</HashCode>
+      <FileName>Services\CandidatosServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TrabalhoVotacao.Services.EleitorServices" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAEAABgAAAAAAAAAAAAAAAAEACAAAAAAAAAAA=</HashCode>
+      <FileName>Services\EleitorServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TrabalhoVotacao.Services.LoginEleitorService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Services\LoginCandidatoService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TrabalhoVotacao.Services.PartidoServices" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAIAACAgAAAAA=</HashCode>
+      <FileName>Services\PartidoServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TrabalhoVotacao.Services.ServicesBase" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAAAAAAIAAAA=</HashCode>
+      <FileName>Services\ServicesBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Services.UrnaEletronicaServices" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAACAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\UrnaServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotos.Services.VotosServices" Collapsed="true">
+    <Position X="21.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQABAEAAkECBAAAAAAAAAAAAAAgIAAAgAAAAAAA=</HashCode>
+      <FileName>Services\VotosServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Program" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoVotacao.Form1" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBCAAAAAAACCAAAACAAAIAAAAAEUICAABAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TrabalhoVotacao.Interfaces.ICadastro" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICadastro.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TrabalhoVotacao.Interfaces.ILogin" Collapsed="true">
+    <Position X="16" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILogin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
